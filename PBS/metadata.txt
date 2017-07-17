@@ -175,7 +175,7 @@ ShowArea=true
 BattleBack=EliteD
 DarkMap=true
 [043]
-# Graz
+# Graz West
 Outdoor=true
 ShowArea=true
 [044]
@@ -202,6 +202,9 @@ Weather=Rain,0
 MapPosition=0,15,10
 Outdoor=true
 ShowArea=true
+[048]
+# Graz Ost
+Outdoor=true
 [049]
 # Rock Cave
 Bicycle=true
