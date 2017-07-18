@@ -145,7 +145,7 @@ ShowArea=true
 MapPosition=0,13,6
 HealingSpot=35,17,7
 [037]
-# Pokémon League
+# Top Four 1
 BattleBack=EliteA
 MapPosition=0,13,6
 [038]

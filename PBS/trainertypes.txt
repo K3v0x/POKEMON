@@ -80,3 +80,4 @@
 78,LEADER_Snowi,Gym Leader,100,gymleader1,gymwin,,Male,,
 79,LEADER_Robert,Gym Leader,100,gymleader1,gymwin,,Male,,
 80,LEADER_Flo2,Gym Leader,100,gymleader1,gymwin,,Male,,
+81,TOP_Haynaly,Top Four,100,top,gymwin,,Male,,
